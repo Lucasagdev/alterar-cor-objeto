@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    list-style-type: none;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.amarelo{
+    background-color: yellow;
+}
